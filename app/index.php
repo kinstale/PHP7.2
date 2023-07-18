@@ -6,7 +6,7 @@ body{
     background-repeat: no-repeat;
     
     
-    height: auto;
+    height: 500px;
     padding:auto;
     margin:auto;
 }
